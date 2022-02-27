@@ -1,0 +1,65 @@
+#+TITLE: jacinthsamuel.com
+
+* Table of Contents :toc:
+- [[#jacinthsamuel][JacinthSamuel]]
+  - [[#technology][Technology]]
+
+* JacinthSamuel
+** Technology
+*** Software
+**** Linux
+***** Distributions
+***** Tutorials
+***** Problem Solving
+**** Android
+***** Devices
+****** Miatoll
+Miatoll is the codename for four devices released by Xiaomi with the exact CPU and just some minor changes. The devices are
+1. Redmi Note 9 Pro(Joyeuse)
+2. Redmi Note 9 Pro Max(Excalibur)
+3. Redmi Note 9S(Curtana)
+4. Poco M2 Pro(Gram)
+******* Custom Rom Installations and Review
+******** Fork Lineage OS 19.0(Android 12)
+Prerequisites:
+
+1. A bootloader unlocked miatoll device with a custom recovery(Ofox recovery recommended).
+2. MicroSD card to transfer the ROM and related problems.
+
+Installation Steps:
+
+1. Download the ROM, Magisk 24.1(If you want root) and Gapps(If you want google apps)
+2. Reboot to recovery.
+3. Wipe Dalvik Cache, Cache and Data.
+4. Flash ROM.
+5. Flash Magisk(If you want root)
+6. Flash Gapps(if you want google apps and play service)
+7. Format Data.
+8. Reboot System.
+
+My opinion:
+
+I normally do not have such a feeling about a ROM, but this ROM is just fantastic. I installed the vannila version and I am using it with microg. The signature spoofing feature is good to have. I am getting a battery of more than 2 days. It is the best battery life that I have gotten from my phone since I bought it 1 year ago. It is not feature packed, but has some nice little quirks that are useful. The ROM also has a gapps version if you cannot live without the google play service. Overall a fantastic ROM. Try it out.
+
+******* Recoveries
+
+1. Orangefox
+2. SHRP
+3. PBRP
+4. Unofficial TWRP
+
+***** Problem solving
+***** Tutorials
+*** Hardware
+**** Keyboards
+***** Membrane Keyboards
+***** Mechanical Keyboards
+****** TVS Gold Pro Keyboards
+
+So I decided to go from membrane to mechanical keyboard after over 15 years of using just membrane keyboards. After a search of about 1 month, I finally decided to buy the TVS Gold Pro Keyboard.
+
+Then the TVS Gold Pro keyboard arrived and it is just fantastic. I do not have the fatigue that I used to feel after a few minutes of typing on my previous Logitech membrane keyboard. Don't get me wrong. My Logitech Membrane Keyboard was actually pretty good. I have typed on far worse membrane keyboards. But the New TVS mechanical keyboard was just on a completely different level. It is just fantastic.I really love the keyboard.
+
+Just one gripe that I have about this keyboard is that the backspacekey is small. On all the keyboards that I or my family has personally owned the backspace key has always been big and I got used to it right from when I was 8 years old and that would be 17 years ago. So I found it very uncomfortable at the beginning and I wish the key was bigger, but it does not bother me nowas much as it did before and it has jsut been two days since I got this keyboard. Maybe large backspace keys were overrated after all.
+
+Anyway a wonderful. if you are looking to make the switch from a membrane keyboard to a mechanical keyboard, this could be a wonderful gateway as it is not expensive. Mine cost just 3099 rupees.
